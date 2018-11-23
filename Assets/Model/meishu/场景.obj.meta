@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 916b6507c1a23094cb47e9a685fb9dde
+timeCreated: 1535298591
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: __1
+    100002: Object006
+    100004: Object012
+    100006: Object013
+    100008: Object014
+    100010: Plane002
+    100012: Props_B019
+    100014: Props_B020
+    100016: Props_B021
+    100018: Props_B14_005
+    100020: Props_B14_006
+    100022: //RootNode
+    400000: __1
+    400002: Object006
+    400004: Object012
+    400006: Object013
+    400008: Object014
+    400010: Plane002
+    400012: Props_B019
+    400014: Props_B020
+    400016: Props_B021
+    400018: Props_B14_005
+    400020: Props_B14_006
+    400022: //RootNode
+    2100000: __1Mat
+    2100002: Object006Mat
+    2100004: Object012Mat
+    2100006: Object013Mat
+    2100008: Object014Mat
+    2100010: Plane002Mat
+    2100012: Props_B019Mat
+    2100014: Props_B020Mat
+    2100016: Props_B021Mat
+    2100018: Props_B14_005Mat
+    2100020: Props_B14_006Mat
+    2300000: __1
+    2300002: Object006
+    2300004: Object012
+    2300006: Object013
+    2300008: Object014
+    2300010: Plane002
+    2300012: Props_B019
+    2300014: Props_B020
+    2300016: Props_B021
+    2300018: Props_B14_005
+    2300020: Props_B14_006
+    3300000: __1
+    3300002: Object006
+    3300004: Object012
+    3300006: Object013
+    3300008: Object014
+    3300010: Plane002
+    3300012: Props_B019
+    3300014: Props_B020
+    3300016: Props_B021
+    3300018: Props_B14_005
+    3300020: Props_B14_006
+    4300000: __1
+    4300002: Object006
+    4300004: Object012
+    4300006: Object013
+    4300008: Object014
+    4300010: Plane002
+    4300012: Props_B019
+    4300014: Props_B020
+    4300016: Props_B021
+    4300018: Props_B14_005
+    4300020: Props_B14_006
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object006Mat
+    second: {fileID: 2100000, guid: e1a553e0b8f987a4b847f1cf19d0c385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object012Mat
+    second: {fileID: 2100000, guid: e1a553e0b8f987a4b847f1cf19d0c385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object013Mat
+    second: {fileID: 2100000, guid: 6a33bfbdd944e4c4bacfc5f309017a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object014Mat
+    second: {fileID: 2100000, guid: 6330dbd357fd66541b640e49f01203d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane002Mat
+    second: {fileID: 2100000, guid: d028b7a71b8582a408f9780cf4124bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_B019Mat
+    second: {fileID: 2100000, guid: 8e6ec81872ed67945aae5c0f2aa460a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_B020Mat
+    second: {fileID: 2100000, guid: 8e6ec81872ed67945aae5c0f2aa460a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_B021Mat
+    second: {fileID: 2100000, guid: 8e6ec81872ed67945aae5c0f2aa460a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_B14_005Mat
+    second: {fileID: 2100000, guid: 8e6ec81872ed67945aae5c0f2aa460a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props_B14_006Mat
+    second: {fileID: 2100000, guid: 8e6ec81872ed67945aae5c0f2aa460a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __1Mat
+    second: {fileID: 2100000, guid: 6330dbd357fd66541b640e49f01203d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

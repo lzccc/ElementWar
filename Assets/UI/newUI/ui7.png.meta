@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: add2276420c1ba743842b317fa8e9402
+timeCreated: 1534733244
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui7_0
+    21300002: ui7_1
+    21300004: ui7_2
+    21300006: ui7_3
+    21300008: ui7_4
+    21300010: ui7_5
+    21300012: ui7_6
+    21300014: ui7_7
+    21300016: ui7_8
+    21300018: ui7_9
+    21300020: ui7_10
+    21300022: ui7_11
+    21300024: ui7_12
+    21300026: ui7_13
+    21300028: ui7_14
+    21300030: ui7_15
+    21300032: ui7_16
+    21300034: ui7_17
+    21300036: ui7_18
+    21300038: ui7_19
+    21300040: ui7_20
+    21300042: ui7_21
+    21300044: ui7_22
+    21300046: ui7_23
+    21300048: ui7_24
+    21300050: ui7_25
+    21300052: ui7_26
+    21300054: ui7_27
+    21300056: ui7_28
+    21300058: ui7_29
+    21300060: ui7_30
+    21300062: ui7_31
+    21300064: ui7_32
+    21300066: ui7_33
+    21300068: ui7_34
+    21300070: ui7_35
+    21300072: ui7_36
+    21300074: ui7_37
+    21300076: ui7_38
+    21300078: ui7_39
+    21300080: ui7_40
+    21300082: ui7_41
+    21300084: ui7_42
+    21300086: ui7_43
+    21300088: ui7_44
+    21300090: ui7_45
+    21300092: ui7_46
+    21300094: ui7_47
+    21300096: ui7_48
+    21300098: ui7_49
+    21300100: ui7_50
+    21300102: ui7_51
+    21300104: ui7_52
+    21300106: ui7_53
+    21300108: ui7_54
+    21300110: ui7_55
+    21300112: ui7_56
+    21300114: ui7_57
+    21300116: ui7_58
+    21300118: ui7_59
+    21300120: ui7_60
+    21300122: ui7_61
+    21300124: ui7_62
+    21300126: ui7_63
+    21300128: ui7_64
+    21300130: ui7_65
+    21300132: ui7_66
+    21300134: ui7_67
+    21300136: ui7_68
+    21300138: ui7_69
+    21300140: ui7_70
+    21300142: ui7_71
+    21300144: ui7_72
+    21300146: ui7_73
+    21300148: ui7_74
+    21300150: ui7_75
+    21300152: ui7_76
+    21300154: ui7_77
+    21300156: ui7_78
+    21300158: ui7_79
+    21300160: ui7_80
+    21300162: ui7_81
+    21300164: ui7_82
+    21300166: ui7_83
+    21300168: ui7_84
+    21300170: ui7_85
+    21300172: ui7_86
+    21300174: ui7_87
+    21300176: ui7_88
+    21300178: ui7_89
+    21300180: ui7_90
+    21300182: ui7_91
+    21300184: ui7_92
+    21300186: ui7_93
+    21300188: ui7_94
+    21300190: ui7_95
+    21300192: ui7_96
+    21300194: ui7_97
+    21300196: ui7_98
+    21300198: ui7_99
+    21300200: ui7_100
+    21300202: ui7_101
+    21300204: ui7_102
+    21300206: ui7_103
+    21300208: ui7_104
+    21300210: ui7_105
+    21300212: ui7_106
+    21300214: ui7_107
+    21300216: ui7_108
+    21300218: ui7_109
+    21300220: ui7_110
+    21300222: ui7_111
+    21300224: ui7_112
+    21300226: ui7_113
+    21300228: ui7_114
+    21300230: ui7_115
+    21300232: ui7_116
+    21300234: ui7_117
+    21300236: ui7_118
+    21300238: ui7_119
+    21300240: ui7_120
+    21300242: ui7_121
+    21300244: ui7_122
+    21300246: ui7_123
+    21300248: ui7_124
+    21300250: ui7_125
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui7_1
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 965
+        width: 249
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_3
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 946
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_4
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 989
+        width: 159
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_5
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 887
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_6
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 924
+        width: 161
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_7
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 689
+        width: 170
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_8
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 860
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 873
+        width: 160
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_16
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 676
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_18
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 728
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_21
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 716
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_22
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 714
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_37
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 621
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_38
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 616
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_71
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 447
+        width: 145
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_72
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 448
+        width: 203
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_73
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 459
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_75
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 456
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_76
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 352
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_82
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 373
+        width: 138
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_83
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 374
+        width: 147
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_84
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 306
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 96
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 239
+        width: 243
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 266
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_97
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 275
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_100
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 162
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_114
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 67
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_121
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 29
+        width: 232
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 196
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_123
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 76
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_124
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 64
+        width: 208
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_125
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 75
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_0
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 976
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 404
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui7_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 406
+        width: 211
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

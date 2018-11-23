@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1373409358727552}
+  m_IsPrefabParent: 1
+--- !u!1 &1373409358727552
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4577890071679304}
+  - component: {fileID: 114996230229979472}
+  m_Layer: 0
+  m_Name: PoolManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4577890071679304
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1373409358727552}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -73.3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114996230229979472
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1373409358727552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee1f25831af76f48a906971ba455e80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolOb:
+  - {fileID: 1228043494045834, guid: 463702eba45c1e14f9477ca47f65eda7, type: 2}
+  - {fileID: 1392873454064550, guid: cd8816a55cde64748ac28fb459bac6ea, type: 2}
+  - {fileID: 1697205987321868, guid: 9cb11c2cb52c8034bb9e090ca361cf4e, type: 2}
+  - {fileID: 1542296451110144, guid: 0793e9158e38e2f45a6e427a47706c05, type: 2}
+  - {fileID: 1637164349170474, guid: d3bcbcb9a8477c74dacb9dbd04f80ad5, type: 2}
+  - {fileID: 1690150481425132, guid: 2f09dede97cf0e048bef265501ef5d37, type: 2}
+  - {fileID: 1846137458063070, guid: 3b23fa67a9a46984f8a10d6ede080197, type: 2}
+  - {fileID: 1961813585574420, guid: 3324586af2af4114490d615cad962d31, type: 2}
+  - {fileID: 1631173296774996, guid: 977e7581b81687748b68554e019d1e6d, type: 2}
+  - {fileID: 1260612448052274, guid: be192475505be2b47913f9377bd64cb3, type: 2}
+  - {fileID: 130346, guid: 07bf9ced87963e24299c2c2a22bfeeb6, type: 2}
+  - {fileID: 1926164745909372, guid: 0a7615b9d9fb6f84ba25c65e63682fce, type: 2}
+  - {fileID: 1796990377412046, guid: 2c58a9e365b71294db02bea902ae8d55, type: 2}
+  - {fileID: 1126502104848048, guid: f8a144ba515403c40a55bad2507aa634, type: 2}
+  - {fileID: 1961813585574420, guid: 82cc27505e62a514f87ac04f6a4e2fdd, type: 2}
+  - {fileID: 1176432299930764, guid: f8078728970d3e84e93fba90b2277785, type: 2}
+  - {fileID: 1854119006954734, guid: 7929538f6398d25459cbcefc9e3c4edc, type: 2}
+  poolObNum: 0a000000050000000500000010000000050000000a0000000a0000000a0000000a0000000a0000000a00000006000000060000000a0000000a0000000a0000000a000000
