@@ -13,6 +13,6 @@
 
 ![EFG](https://github.com/lzccc/ElementWar/blob/master/Assets/UI/%E7%BE%8E%E5%AE%A3/P1.png) 
 
-#### Please do not use the code andthe original drawings or 3d models for commercial activities.
+### Please do not use the code and the original drawings or 3d models for commercial activities. Thanks for your attention!
 ![EFG](https://github.com/lzccc/ElementWar/blob/master/Assets/UI/%E7%BE%8E%E5%AE%A3/%E6%B5%B7%E6%8A%A5.jpg) 
 
