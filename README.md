@@ -8,8 +8,9 @@
 ###  1. JUnit test cases at the GUI level.
 
 #### Screenshots of the game:
-
-
+![EFG](https://github.com/sustech-cs409/progress-report-wxyz/blob/master/image/why-2.png) 
+![EFG](https://github.com/sustech-cs409/progress-report-wxyz/blob/master/image/why-2.png) 
+![EFG](https://github.com/sustech-cs409/progress-report-wxyz/blob/master/image/why-2.png) 
 
 #### Please do not use the code andthe original drawings or 3d models for commercial activities.
 
